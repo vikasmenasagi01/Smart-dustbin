@@ -52,13 +52,9 @@ A **16×2 I2C LCD display** shows the current status of the dustbin, while an op
 
 ---
 
-# 🔌 Circuit Diagram
+<h2>📐 Block Diagram</h2>
 
-The following diagram shows the complete system architecture and connections between the input sensor, Arduino Uno, servo motor, LCD and optional buzzer.
-
-<p align="center">
-  <img src="smart dustbin circuit diagram.jpeg" alt="Smart Dustbin Circuit Diagram" width="800">
-</p>
+<img src="smart dustbin block diagram.jpeg" alt="Smart Dustbin Block Diagram" width="800">
 
 ### 🔗 System Flow
 
